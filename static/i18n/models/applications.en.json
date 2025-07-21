@@ -1,0 +1,47 @@
+{
+  "display_name": "Applications",
+  "fields": {
+    "Address": {
+      "display_name": "Address",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Email": {
+      "display_name": "Email",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Fullname": {
+      "display_name": "Fullname",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "ID": {
+      "display_name": "ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Purpose": {
+      "display_name": "Purpose",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "ValidID": {
+      "display_name": "Valid ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    }
+  }
+}
