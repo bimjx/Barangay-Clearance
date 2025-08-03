@@ -1,2 +1,1 @@
 # Barangay-Clearance
-# Barangay-Clearance
